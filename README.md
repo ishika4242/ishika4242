@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack developer, easily adapt new tools and technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- Currently, A pre-final year undergraduate👩🏻‍🎓, looking for great opportunities. 
-
 - 👨‍💻 All of my projects are available at [ishika4242.pythonanywhere.com](ishika4242.pythonanywhere.com)
 
 - 📫 How to reach me **ishika4242@gmail.com**
