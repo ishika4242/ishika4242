@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishika Gupta</h1>
-<h3 align="center">A passionate Full Stack develope, easily adapt new tools and technologies.</h3>
+<h3 align="center">A passionate Full Stack developer, easily adapt new tools and technologies.</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
